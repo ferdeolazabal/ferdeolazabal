@@ -17,6 +17,7 @@ const Fernando = {
 ```
 
 ## 📬 Get in touch
+- Email: ferdeolazabal@gmail.com
 - LinkedIn: [linkedin.com/in/fernando-miguel-de-olazabal](https://www.linkedin.com/in/fernando-miguel-de-olazabal/)
 - Instagram: [instagram.com/ferdeolazabal84](https://www.instagram.com/ferdeolazabal84/)
 - Facebook: [facebook.com/fer6483](https://www.facebook.com/fer6483)
