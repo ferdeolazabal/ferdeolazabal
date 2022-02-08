@@ -16,10 +16,11 @@ const Fernando = {
 };
 ```
 
+### Portfolio: [https://ferdeolazabal-portfolio.herokuapp.com/](https://ferdeolazabal-portfolio.herokuapp.com/)
+
 ## 📬 Get in touch
 - Email: ferdeolazabal@gmail.com
 - LinkedIn: [linkedin.com/in/fernando-miguel-de-olazabal](https://www.linkedin.com/in/fernando-miguel-de-olazabal/)
-- Instagram: [instagram.com/ferdeolazabal84](https://www.instagram.com/ferdeolazabal84/)
 
 
 ## 📬 Stats
