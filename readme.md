@@ -15,7 +15,9 @@ const Fernando = {
     }
 };
 ```
-## 📬 Portfolio [https://ferdeolazabal-portfolio.herokuapp.com/](https://ferdeolazabal-portfolio.herokuapp.com/)
+## 📬 Portfolio
+
+- [https://ferdeolazabal-brief.herokuapp.com](https://ferdeolazabal-brief.herokuapp.com/)
 
 ## 📬 Get in touch
 - Email: ferdeolazabal@gmail.com
