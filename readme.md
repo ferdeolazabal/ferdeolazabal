@@ -10,8 +10,8 @@
 const Fernando = {
     technologies: {
         frontEnd: ["React", "Redux", "JavaScrip", "css", "bootstrap"],
-        backEnd: ["Node.Js", "Express.Js"],
-        dataDases: ["Sequelize", "PostgreSQL"],
+        backEnd: ["Node.Js", "Express.Js", "Sequelize"],
+        dataDases: ["PostgreSQL", "MongoDB"],
     }
 };
 ```
