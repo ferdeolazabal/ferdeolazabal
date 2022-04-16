@@ -9,9 +9,10 @@
 ```javascript
 const Fernando = {
     technologies: {
-        frontEnd: ["React", "Redux", "JavaScrip", "css", "bootstrap"],
-        backEnd: ["Node.Js", "Express.Js", "Sequelize"],
-        dataDases: ["PostgreSQL", "MongoDB"],
+        Languages: [ "JavaScript", "TypeScript" ]
+        FrontEnd: [ "React", "Redux", "Css", "Bootstrap" ],
+        BackEnd: [ "Node.Js", "Express.Js", "Sequelize" ],
+        DataDases: [ "PostgreSQL", "MongoDB" ],
     }
 };
 ```
