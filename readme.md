@@ -8,8 +8,8 @@
 
 ```javascript
 const Fernando = {
-    technologies: {
-        Languages: [ "JavaScript", "TypeScript" ]
+    Technologies: {
+        Languages: [ "JavaScript", "TypeScript" ],
         FrontEnd: [ "React", "Redux", "Css", "Bootstrap" ],
         BackEnd: [ "Node.Js", "Express.Js", "Sequelize" ],
         DataDases: [ "PostgreSQL", "MongoDB" ],
