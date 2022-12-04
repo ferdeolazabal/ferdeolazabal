@@ -18,7 +18,7 @@ const Fernando = {
 ```
 ## 📬 Portfolio
 
-- [https://ferdeolazabal-brief.herokuapp.com](https://ferdeolazabal-brief.herokuapp.com/)
+- [https://ferdeolazabal.surge.sh](https://ferdeolazabal.surge.sh)
 
 ## 📬 Get in touch
 - Email: ferdeolazabal@gmail.com
