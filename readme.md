@@ -11,7 +11,7 @@ const Fernando = {
     Technologies: {
         Languages: [ "JavaScript", "TypeScript" ],
         FrontEnd: [ "React", "Redux", "Css", "Bootstrap" ],
-        BackEnd: [ "Node.Js", "Express.Js", "Sequelize" ],
+        BackEnd: [ "Node.Js", "Express.Js", "Sequelize", "TypeORM" ],
         DataDases: [ "PostgreSQL", "MongoDB" ],
     }
 };
