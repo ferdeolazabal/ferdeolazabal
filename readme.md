@@ -22,7 +22,7 @@ const Fernando = {
 
 ## 📬 Get in touch
 - Email: ferdeolazabal@gmail.com
-- LinkedIn: [linkedin.com/in/fernando-miguel-de-olazabal](https://www.linkedin.com/in/ferdeolazabal/)
+- LinkedIn: [linkedin.com/in/ferdeolazabal](https://www.linkedin.com/in/ferdeolazabal/)
 
 
 ## 📬 Stats
